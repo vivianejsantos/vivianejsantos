@@ -12,6 +12,8 @@
 ### Most used languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivianejsantos&layout=compact&bg_color=000&border_color=e5318f&hide_title=true&text_color=FFF)
 
+![Snake animation](https://github.com/vivianejsantos/vivianejsantos/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **vivianejsantos/vivianejsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
