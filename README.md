@@ -2,7 +2,8 @@
 
 ## I'm currently learning
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,linux,spring,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,python,linux,postgresql,mysql,aws,docker&perline=5&theme=dark" />
+
 
 ### GitHub Stats 
 
